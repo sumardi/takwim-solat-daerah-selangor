@@ -19,7 +19,7 @@ Zon ditambah supaya waktu solat yang disiarkan lebih hampir dengan kedudukan mat
 Mulai 1 Januari 2027, waktu solat di kawasan anda mungkin berganjak beberapa minit kerana daerah anda tidak lagi berkongsi titik rujukan dengan daerah lain. Contohnya, penduduk Sepang tidak lagi mengikut jadual yang sama dengan penduduk Rawang.
 
 ### Mengenai Repo Ini
-Repository tersebut menyediakan data jadual waktu solat yang boleh dimuat turun dalam format CSV. Format CSV (Comma-Separated Values) ini sangat memudahkan anda untuk membuka data tersebut menggunakan aplikasi spreadsheet seperti Microsoft Excel, Google Sheets, atau menggunakannya terus dalam projek pengaturcaraan (programming) anda.
+Repository ini menyediakan data jadual waktu solat yang boleh dimuat turun dalam format CSV. Format CSV (Comma-Separated Values) ini sangat memudahkan anda untuk membuka data tersebut menggunakan aplikasi spreadsheet seperti Microsoft Excel, Google Sheets, atau menggunakannya terus dalam projek pengaturcaraan (programming) anda.
 
 ## Rujukan
 - [Takwim Solat Negeri Selangor](https://www.muftiselangor.gov.my/takwim-solat/)
